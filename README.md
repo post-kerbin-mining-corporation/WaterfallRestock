@@ -14,6 +14,15 @@ This is a configuration pack for the [Waterfall](https://github.com/ChrisAdderle
 TBW
 
 
+## Dependencies
+
+### Required
+These components are required for the mod to function and are bundled as part of any download:
+* [ModuleManager (4.1.4)](https://github.com/sarbian/ModuleManager)
+* [Waterfall (0.2.0)](https://github.com/ChrisAdderley/Waterfall)
+* [Restock (1.2.1)](https://github.com/PorktoberRevolution/ReStocked)
+
+
 ## Installation
 
 To install, place the GameData folder inside your Kerbal Space Program folder. If asked to overwrite files, please do so.
