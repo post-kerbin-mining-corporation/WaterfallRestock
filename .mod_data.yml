@@ -2,7 +2,7 @@ mod-name: WaterfallRestock
 package:
   include-dependencies: true  # Include dependencies in the package
   included-gamedata:
-    - Waterfall
+    - WaterfallRestock
   included-support:  # Include these root-level files in packages
     - readme.txt
     - changelog.txt
@@ -11,7 +11,7 @@ dependencies:  # Configure dependencies
     version: 4.1.4
     location: s3
   Waterfall:
-    tag: 0.2.0
+    tag: 0.2.1
     location: github
     repository: ChrisAdderley/Waterfall
 deploy:
