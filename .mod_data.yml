@@ -2,7 +2,7 @@ mod-name: WaterfallRestock
 package:
   include-dependencies: true  # Include dependencies in the package
   included-gamedata:
-    - Waterfall
+    - WaterfallRestock
   included-support:  # Include these root-level files in packages
     - readme.txt
     - changelog.txt
