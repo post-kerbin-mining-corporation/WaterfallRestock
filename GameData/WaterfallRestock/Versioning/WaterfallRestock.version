@@ -1,12 +1,12 @@
 {
     "NAME":"WaterfallRestock",
-    "URL":"https://raw.githubusercontent.com/ChrisAdderley/WaterfallRestock/master/GameData/WaterfallRestock/Versioning/WaterfallRestock.version",
-    "DOWNLOAD":"https://github.com/ChrisAdderley/WaterfallRestock",
+    "URL":"https://raw.githubusercontent.com/post-kerbin-mining-corporation/WaterfallRestock/master/GameData/WaterfallRestock/Versioning/WaterfallRestock.version",
+    "DOWNLOAD":"https://github.com/post-kerbin-mining-corporation/WaterfallRestock",
     "VERSION":
     {
         "MAJOR":0,
         "MINOR":1,
-        "PATCH":1,
+        "PATCH":2,
         "BUILD":0
     },
     "KSP_VERSION":
