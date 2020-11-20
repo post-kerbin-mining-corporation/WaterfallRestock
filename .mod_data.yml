@@ -13,7 +13,7 @@ dependencies:  # Configure dependencies
   Waterfall:
     tag: 0.2.5
     location: github
-    repository: ChrisAdderley/Waterfall
+    repository: post-kerbin-mining-corporation/Waterfall
 deploy:
   SpaceDock:
     enabled: false  # activate/deactivate this deployment script
