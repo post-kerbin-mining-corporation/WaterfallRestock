@@ -11,9 +11,9 @@ dependencies:  # Configure dependencies
     version: 4.1.4
     location: s3
   Waterfall:
-    tag: 0.2.5
+    tag: 0.2.6
     location: github
-    repository: ChrisAdderley/Waterfall
+    repository: post-kerbin-mining-corporation/Waterfall
 deploy:
   SpaceDock:
     enabled: false  # activate/deactivate this deployment script
