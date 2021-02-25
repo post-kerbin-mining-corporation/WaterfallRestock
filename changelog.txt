@@ -1,3 +1,7 @@
+v0.2.0
+------
+- Major update with new Waterfall templates
+
 v0.1.5
 ------
 - Bumped Waterfall version
