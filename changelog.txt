@@ -1,6 +1,8 @@
 v0.2.1
 ------
 - Fixed Restock+ Galleon effects
+- Fixed Spider effects
+- Adpated to new Waterfall 0.6.0 stuff
 
 v0.2.0
 ------
