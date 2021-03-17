@@ -11,7 +11,7 @@ dependencies:  # Configure dependencies
     version: 4.1.4
     location: s3
   Waterfall:
-    tag: 0.5.0
+    tag: 0.6.0
     location: github
     repository: post-kerbin-mining-corporation/Waterfall
 deploy:
