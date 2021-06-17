@@ -9,7 +9,7 @@ DEPENDENCIES
 ============
 
 Required:
-- Waterfall (0.6.4)
+- Waterfall (0.6.5)
 - Restock (1.3.1+)
 - ModuleManager (v4.1.4)
 
