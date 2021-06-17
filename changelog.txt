@@ -1,3 +1,11 @@
+v0.2.2
+------
+- Fixed duplicated plume on Puff
+- Updated pass specification of all patches
+- Set up for compatibility with StockWaterfallEffects - you can now install both and get SWE effects on engines that Restock doesn't touch
+- Fixed Ursa plume position
+- Fixed Poodle plume (need Restock 1.3.2+)
+
 v0.2.1
 ------
 - Fixed Restock+ Galleon effects
