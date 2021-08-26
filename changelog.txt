@@ -1,3 +1,8 @@
+v0.2.3
+------
+- KSP 1.12
+- Fix plumes for new squad revamps
+
 v0.2.2
 ------
 - Fixed duplicated plume on Puff

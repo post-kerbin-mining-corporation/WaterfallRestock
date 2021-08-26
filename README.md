@@ -18,9 +18,9 @@ TBW
 
 ### Required
 These components are required for the mod to function and are bundled as part of any download:
-* [ModuleManager (4.1.4)](https://github.com/sarbian/ModuleManager)
-* [Waterfall (0.3.0)](https://github.com/ChrisAdderley/Waterfall)
-* [Restock (1.2.1)](https://github.com/PorktoberRevolution/ReStocked)
+* [ModuleManager (4.2.1)](https://github.com/sarbian/ModuleManager)
+* [Waterfall (0.6.5)](https://github.com/ChrisAdderley/Waterfall)
+* [Restock (1.4.2)](https://github.com/PorktoberRevolution/ReStocked)
 
 
 ## Installation
