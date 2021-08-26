@@ -1,5 +1,5 @@
 =================================
-Waterfall - Restock Configs 0.2.2
+Waterfall - Restock Configs 0.2.3
 =================================
 
 This is a configuration pack for the Waterfall mod, which applies Waterfall type effects to Restock and Restock+ models. It does nothing on its own and requires the base Waterfall mod to function.
@@ -9,8 +9,8 @@ DEPENDENCIES
 ============
 
 Required:
-- Waterfall (0.6.5)
-- Restock (1.3.1+)
+- Waterfall (0.6.7)
+- Restock (1.4.2+)
 - ModuleManager (v4.1.4)
 
 ============
