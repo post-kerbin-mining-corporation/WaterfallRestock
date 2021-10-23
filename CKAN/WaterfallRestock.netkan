@@ -6,9 +6,9 @@
     "$vref":        "#/ckan/ksp-avc",
     "abstract": "Waterfall configuration for the Restock and Restock+ mods. Adds Waterfall-driven effects to most engines and lights.",
     "author": "Chris Adderley (Nertea)",
-    "license":      "CC-BY-NC-SA-4.0",
+    "license":      "CC-BY-NC-SA-4",
     "resources": {
-        "homepage":   "https://forum.kerbalspaceprogram.com/index.php?/topic/196309-wip-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-dec-19/",
+        "homepage":   "https://forum.kerbalspaceprogram.com/index.php?/topic/196309",
         "repository": "https://github.com/post-kerbin-mining-corporation/WaterfallRestock"
     },
     "depends": [
